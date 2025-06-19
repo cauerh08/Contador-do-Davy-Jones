@@ -1,40 +1,39 @@
-Contador do Davy Jones
+# Davy Jones Counter
 
-Um projeto simples e divertido feito em Python com Tkinter para praticar programação e homenagear o mago Davy Jones!
+A simple and fun Python project made with Tkinter to practice programming and honor the legendary YouTuber Davy Jones!
 
-Funcionalidades
+## Features
 
-* Contador com botões para aumentar e diminuir
-* Funções de “Resetar” e “Duplicar”
-* Aba separada para “Pérolas do Dava” (áudios e memes famosos)
-* GIF animado para cada seção
-* Interface estilosa e fácil de usar
-* Sons para cada ação
+* Counter with increase and decrease buttons
+* “Reset” and “Double” functions
+* Separate tab for “Pérolas do Dava” (famous audio clips and memes)
+* Animated GIF for each section
+* Stylish and easy-to-use interface
+* Sounds for each action
 
-Por quê?
+## Why?
 
-Esse projeto foi criado para praticar Python, aprender programação de interface gráfica e se divertir com memes do Davy Jones.
+This project was created to practice Python, learn GUI programming, and have some fun with Davy Jones memes.
 
-## Como rodar
+## How to Run
 
-1. Certifique-se de ter o Python 3 instalado
-2. Instale as bibliotecas necessárias:
+1. Make sure you have Python 3 installed
+2. Install the required libraries:
 
    ```
    pip install pillow playsound
    ```
-Rode o projeto:
+3. Run the project:
 
    ```
    python tui.py
    ```
+4. All audio files and GIFs should be in the same folder as the script
 
-Todos os arquivos de áudio e GIFs devem estar na mesma pasta do script
+## About Me
 
-Sobre mim
-
-Brasileiro morando nos Estados Unidos, aprendendo Python e programação do zero. Sempre aberto a feedback e novas dicas!
+Brazilian living in the USA, learning Python and programming from scratch. Always open to feedback and new tips!
 
 ---
 
-Se quiser mudar ou adicionar algo, é só pedir!
+If you want to add more sections or tweak anything, let me know!
